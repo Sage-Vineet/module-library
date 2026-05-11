@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MySage Reusable Email Module
 
 Enterprise reusable email module using Node.js and React.
@@ -32,3 +33,7 @@ npm run dev
 POST /api/email/welcome
 
 POST /api/email/otp
+=======
+# module-library
+library of modules for Sage with detailed documentation
+>>>>>>> main
